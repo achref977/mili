@@ -1,8 +1,10 @@
-Check
+Check (Monitoring Tools)
+if 0 then Close tabs
+1 - Ignore
 
-Restart:
+Restart: (DNS IP Checker)
 1 - Do Restart
 0 - Ignore
 
-Serial:
+Serial: (Monitoring Tools)
 Give Serial to Block
